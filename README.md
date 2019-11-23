@@ -1,7 +1,7 @@
 # py-password-generator
 A nonsense Python implementation of a password generator(CLI only)
 
-Feature:
+Features:
 1. Allow users to choose password combination
 2. Allow users to choose password length
 
