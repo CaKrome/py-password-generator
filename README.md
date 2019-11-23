@@ -5,6 +5,6 @@ Features:
 1. Allow users to choose password combination
 2. Allow users to choose password length
 
-Feature planning:
+Features planning:
 1. repeated execution
 2. GUI(may not come anytime soon)
