@@ -6,5 +6,5 @@ Features:
 2. Allow users to choose password length
 
 Features planning:
-1. repeated execution
+1. Binary release
 2. GUI(may not come anytime soon)
