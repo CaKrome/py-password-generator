@@ -1,5 +1,5 @@
 # py-password-generator
-A nonsense Python implementation of a password generator(CLI only)
+A naive Python implementation of a password generator(CLI only)
 
 Features:
 1. Allow users to choose password combination
